@@ -1,7 +1,7 @@
 # Clothing Review With Embeddings Using OpenAI API
 
 ### Deliverables
-1. Jupyter Notebook Analysis
+1. [Jupyter Notebook Analysis](https://github.com/mauro-cesar-bh/AI-projects/blob/main/Clothing-Reviews-Embeddings/notebook.ipynb)
 
 ### Tasks
 - OpenAI API request
