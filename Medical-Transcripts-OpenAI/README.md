@@ -1,4 +1,4 @@
-# Medical Transcipts OpenAI API
+# Medical Transcripts OpenAI API
 
 ### Deliverables
 1. Jupyter Notebook Analysis
