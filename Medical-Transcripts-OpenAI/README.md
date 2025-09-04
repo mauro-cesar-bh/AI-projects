@@ -1,7 +1,7 @@
 # Medical Transcripts OpenAI API
 
 ### Deliverables
-1. Jupyter Notebook Analysis
+1. [Jupyter Notebook Analysis](https://github.com/mauro-cesar-bh/AI-projects/blob/main/Medical-Transcripts-OpenAI/notebook.ipynb)
 
 ### Tasks
 - OpenAI API request
